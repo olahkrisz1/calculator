@@ -56,12 +56,12 @@ button:hover {
 }
 
 .operator {
-  background-color: #0074d9;
+  background-color: blueviolet;
   color: #fff;
 }
 
 .equals {
   grid-row: span 3;
-  background-color: #01ff70;
+  background-color: coral;
   color: #fff;
 }
