@@ -48,3 +48,20 @@ button:hover {
   background-color: #ff4136;
   color: #fff;
 }
+
+.number,
+.decimal {
+  background-color: #fff;
+  color: #333;
+}
+
+.operator {
+  background-color: #0074d9;
+  color: #fff;
+}
+
+.equals {
+  grid-row: span 3;
+  background-color: #01ff70;
+  color: #fff;
+}
